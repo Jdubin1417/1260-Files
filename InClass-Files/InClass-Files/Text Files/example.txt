@@ -1,0 +1,3 @@
+hello!
+writing text from my program
+the value of x is 5

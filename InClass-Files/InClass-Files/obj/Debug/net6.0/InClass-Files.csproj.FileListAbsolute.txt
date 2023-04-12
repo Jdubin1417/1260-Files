@@ -1,0 +1,30 @@
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files.exe
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files.deps.json
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files.runtimeconfig.json
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files.dll
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files.pdb
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.csproj.AssemblyReference.cache
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.GeneratedMSBuildEditorConfig.editorconfig
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.AssemblyInfoInputs.cache
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.AssemblyInfo.cs
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.csproj.CoreCompileInputs.cache
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.dll
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/refint/InClass-Files.dll
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.pdb
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.genruntimeconfig.cache
+E:/Fall 2022/1260/Code/InClass-Files/InClass-Files/obj/Debug/net6.0/ref/InClass-Files.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files.deps.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files.runtimeconfig.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/bin/Debug/net6.0/InClass-Files.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.csproj.AssemblyReference.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.AssemblyInfoInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.AssemblyInfo.cs
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.csproj.CoreCompileInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/refint/InClass-Files.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/InClass-Files.genruntimeconfig.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/Fall 2022/CSCI 1260 001/In Class Code - Notes/InClass-Files/InClass-Files/obj/Debug/net6.0/ref/InClass-Files.dll
